@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Patrix3tv
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning HTML, PHP and C#
+- 👋 Hi, I’m @Patrix
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning HTML, PHP, C# and CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
