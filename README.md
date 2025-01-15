@@ -10,7 +10,7 @@
 
 ## My current projects on github:
 - Website Example [Schrott-Games.com](https://patrix3tv.github.io/schrott-games.com_example/)
-- Website about me and my projects [My Projects](https://patrix3tv.github.io/mydiscordbots/)
+- Website about me and my projects [My Projects](https://patrix3tv.github.io/patrixbots/)
 - Website for calculate in SchrottGames [Calculator](https://patrix3tv.github.io/schrottgames-calculator/)
 
 <!---
