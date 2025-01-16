@@ -1,3 +1,4 @@
+# About me
 👋 I'm Patrix aka. Patrick.
 
 👩‍💻 I'm currently working on personal projects and studying informatic.
@@ -8,9 +9,9 @@
 
 📫 Reach me at discord [patrix4103](https://discord.com/user/642393067168596019/) (private) and [patrix3](https://discord.com/user/1010621406041604157/) (business)
 
-## My current projects on github:
+# My current projects on github:
 - Website Example [Schrott-Games.com](https://patrix3tv.github.io/schrott-games.com_example/)
-- Website about me and my projects [My Projects](https://patrix3tv.github.io/patrixbots/)
+- Website about me and my projects [My Projects](https://patrix3tv.github.io/PatrixBots/)
 - Website for calculate in SchrottGames [Calculator](https://patrix3tv.github.io/schrottgames-calculator/)
 
 <!---
